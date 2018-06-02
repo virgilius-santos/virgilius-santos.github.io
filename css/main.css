@@ -625,6 +625,9 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .dark-red-bg > span{
     background-color: #c0392b;
 }
+.darkgrey-bg > span{
+    background-color: #7f8c8d;
+}
 
 /*
 .green-bg {
@@ -665,12 +668,6 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .dark-white-bg {
     background-color: #bdc3c7;
-}
-.grey-bg {
-    background-color: #95a5a6;
-}
-.dark-grey-bg {
-    background-color: #7f8c8d;
 }
 */
 
